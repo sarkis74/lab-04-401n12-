@@ -1,6 +1,6 @@
 'use strict';
 
-const Buf = require('../loop.js');
+const Buf = require('../main');
 
 describe('#loop  TDD testing for buffer functions', () => {
     beforeAll(() => {
